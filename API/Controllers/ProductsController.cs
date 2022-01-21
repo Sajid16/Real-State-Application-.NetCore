@@ -1,22 +1,32 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using API.Entities;
+using API.Data;
+using System.Linq;
 
 namespace API.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/Products")]
     public class ProductsController : ControllerBase
     {
-        [HttpGet]
-        public string GetProducts()
+        private readonly StoreContext _dbContext;
+        public ProductsController(StoreContext dbContext)
         {
-            return "this will be a list of products";
+            _dbContext = dbContext;
+        }
+        [HttpGet]
+        public ActionResult<List<Product>> GetProducts()
+        {
+            var products = _dbContext.Products.ToList();
+            return Ok(products);
         }
 
         [HttpGet("{id}")]
-        public string GetProduct(int id)
+        public ActionResult<Product> GetProductById(int id)
         {
-            string msg = "get single product of id " + id;
-            return msg;
+            var product = _dbContext.Products.Find(id);
+            return Ok(product);
         }
     }
 }
