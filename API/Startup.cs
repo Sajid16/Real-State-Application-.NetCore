@@ -11,8 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using API.Data;
 using Microsoft.EntityFrameworkCore;
+using Infrastructure.Data;
 
 namespace API
 {

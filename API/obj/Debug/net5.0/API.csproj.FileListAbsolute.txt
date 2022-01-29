@@ -135,3 +135,7 @@ D:\.NETCORE-Practice\E-Commerce-.NetCore\API\obj\Debug\net5.0\API.pdb
 D:\.NETCORE-Practice\E-Commerce-.NetCore\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Humanizer.dll
 D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Core.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Infrastructure.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Infrastructure.pdb
+D:\.NETCORE-Practice\E-Commerce-.NetCore\API\bin\Debug\net5.0\Core.pdb

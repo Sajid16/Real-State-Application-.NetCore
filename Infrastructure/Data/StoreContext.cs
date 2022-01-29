@@ -1,7 +1,7 @@
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using API.Entities;
 
-namespace API.Data
+namespace Infrastructure.Data
 {
     public class StoreContext : DbContext // DbContext is a class that is using as extending itself. It helps to use refernce falor instead of raw access.
     {

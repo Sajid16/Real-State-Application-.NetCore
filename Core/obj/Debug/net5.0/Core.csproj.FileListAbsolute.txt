@@ -1,0 +1,12 @@
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\bin\Debug\net5.0\Core.deps.json
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\bin\Debug\net5.0\Core.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\bin\Debug\net5.0\ref\Core.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\bin\Debug\net5.0\Core.pdb
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\ref\Core.dll
+D:\.NETCORE-Practice\E-Commerce-.NetCore\Core\obj\Debug\net5.0\Core.pdb

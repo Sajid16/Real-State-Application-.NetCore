@@ -1,7 +1,7 @@
+using Core.Entities;
+using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using API.Entities;
-using API.Data;
 using System.Linq;
 
 namespace API.Controllers
